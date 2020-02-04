@@ -16,6 +16,8 @@ So I went and wrote one.
 
 If you have PySide2: `python -m xrandroll` in the folder where you cloned it.
 
+If you don't have PySide2, easiest way is to automatically have it in a virtualenv with fades, do `fades -d PySide2 -x python -m xrandroll` (also in the folder where you cloned it).
+
 ## TODO:
 
 * Implement other things
